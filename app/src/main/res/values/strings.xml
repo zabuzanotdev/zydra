@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zydra</string>
+    <string name="app_tagline">ZYDRA_CORE</string>
+    <string name="app_status_active">SYSTEM: ACTIVE</string>
+    <string name="app_logo">Z</string>
+
+    <string name="mode_dictionary">Dictionary</string>
+    <string name="mode_bruteforce">Brute Force</string>
+
+    <string name="target_title">TARGET ENCRYPTED FILE</string>
+    <string name="target_empty">No file selected</string>
+    <string name="wordlist_title">WORDLIST (.TXT)</string>
+    <string name="wordlist_empty">No wordlist selected</string>
+
+    <string name="action_start">INITIATE DECRYPTION</string>
+    <string name="action_cancel">ABORT</string>
+
+    <string name="charset_title">CHARACTER SET</string>
+    <string name="charset_lowercase">Lowercase (a–z)</string>
+    <string name="charset_uppercase">Uppercase (A–Z)</string>
+    <string name="charset_digits">Digits (0–9)</string>
+    <string name="charset_symbols">Symbols (!#…)</string>
+    <string name="charset_space">Space</string>
+    <string name="field_min_length">Min length</string>
+    <string name="field_max_length">Max length</string>
+    <string name="bruteforce_combinations">Combinations: %1$s</string>
+
+    <string name="status_analyzing">Analyzing data…</string>
+    <string name="status_cracking_zip">Decrypting ZIP…</string>
+    <string name="status_cracking_pdf">Decrypting PDF…</string>
+    <string name="status_cracking_rar">Decrypting RAR…</string>
+    <string name="status_cracking_shadow">Cracking hashes…</string>
+    <string name="status_decrypting">Decrypting…</string>
+
+    <string name="progress_percent">%1$d%%</string>
+    <string name="label_speed">SPEED</string>
+    <string name="label_eta">ETA</string>
+    <string name="value_speed">%1$d p/s</string>
+    <string name="value_eta_unknown">N/A</string>
+    <string name="value_tried">%1$s / %2$s tried</string>
+
+    <string name="result_granted">ACCESS GRANTED</string>
+    <string name="result_key">KEY: %1$s</string>
+    <string name="result_detail">Match: %1$s</string>
+    <string name="result_denied">ACCESS DENIED</string>
+
+    <string name="error_unsupported_format">Unsupported file type: %1$s</string>
+    <string name="error_rar5_unsupported">RAR5 archives are not supported on Android (RAR4 only).</string>
+    <string name="error_empty_wordlist">Wordlist is empty.</string>
+    <string name="error_wordlist_too_large">Wordlist too large (max %1$d passwords on mobile).</string>
+    <string name="error_no_match">No match found in candidates.</string>
+    <string name="error_file_unreadable">Cannot read target file.</string>
+    <string name="error_no_charset">Select at least one character set.</string>
+    <string name="error_bad_range">Min length must be ≤ max length.</string>
+    <string name="error_too_many_combinations">Too many combinations (%1$s). Shorten length or charset.</string>
+    <string name="error_no_candidate">Nothing to try.</string>
+    <string name="error_unknown">Cracking failed.</string>
+</resources>
