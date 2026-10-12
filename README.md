@@ -1,4 +1,5 @@
 <p align="center">
+  <img src="https://img.shields.io/badge/status-dalam%20pengembangan-orange" alt="Status: dalam pengembangan">
   <img src="https://img.shields.io/badge/lisensi-GPL--3.0--or--later-blue" alt="Lisensi: GPL-3.0 atau lebih baru">
 </p>
 
