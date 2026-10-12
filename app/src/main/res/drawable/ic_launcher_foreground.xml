@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Ikon Zydra: gembok matrix green di atas latar gelap. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Shackle -->
+    <path
+        android:pathData="M40,54 v-6 a14,14 0 0 1 28,0 v6"
+        android:strokeColor="#00FF41"
+        android:strokeWidth="6"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+    <!-- Body -->
+    <path
+        android:pathData="M41,54 h26 a5,5 0 0 1 5,5 v18 a5,5 0 0 1 -5,5 h-26 a5,5 0 0 1 -5,-5 v-18 a5,5 0 0 1 5,-5 z"
+        android:fillColor="#00FF41" />
+    <!-- Keyhole -->
+    <path
+        android:pathData="M54,60 a4,4 0 1 1 0,8 a4,4 0 1 1 0,-8 z"
+        android:fillColor="#0D0D0D" />
+    <path
+        android:pathData="M51.5,67 L56.5,67 L55.5,75 L52.5,75 Z"
+        android:fillColor="#0D0D0D" />
+</vector>

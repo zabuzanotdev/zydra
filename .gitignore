@@ -1,0 +1,16 @@
+# Android / Gradle
+.gradle/
+build/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+.kotlin/
+
+# IDE & artefak agen AI (dokumen internal, tidak dipublikasikan)
+.idea/
+*.iml
+.artifacts/
+history-storage/
+indexingStamp/
+project-model-cache/
